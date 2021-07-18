@@ -15,3 +15,14 @@ The admin will initiate the election by adding candidates.Once the candidate lis
 vote, the smart contract function checks if the voter has already casted his/her vote or not.If the voter has not casted vote earlier, then smart contract allows voter to cast vote 
 to requested candidate by confirming the metamask transcation notification. After confirming the metamask notification, voter's vote is recorded on blockchain.
 At the end, the candidate(s) with maximum number of votes will be the winner of the election.
+
+## Screenshots
+### Candidate List
+![candidate list](/public/CadiddateList.png)
+
+
+### Cast vote
+![cast vote](/public/castVotes.PNG)
+
+### See result
+![result](/public/result.png)
