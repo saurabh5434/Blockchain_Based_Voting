@@ -26,3 +26,8 @@ At the end, the candidate(s) with maximum number of votes will be the winner of 
 
 ### See result
 ![result](/public/result.png)
+
+## To run
+* truffle migrate --reset
+* cd src
+* npm run start
